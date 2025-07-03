@@ -1,7 +1,9 @@
 Super Trunfo - Países (em C)
+
 Este é um projeto desenvolvido por mim como exercício prático de programação em linguagem C, com base no desafio Super Trunfo - Países. O objetivo foi construir um sistema de cadastro, exibição e comparação de cartas representando cidades fictícias, simulando uma versão simplificada do jogo Super Trunfo.
 
 ✨ Sobre o Projeto
+
 O sistema permite cadastrar duas cartas, cada uma com dados de uma cidade. A ideia é que cada cidade pertença a um estado (representado por letras de A a H), formando códigos como A01, B02, etc. Para cada cidade, o programa coleta os seguintes atributos:
 
 População (unsigned long int)
@@ -43,11 +45,6 @@ Cada comparação exibe um resultado (1 = carta 1 vence, 0 = carta 2 vence)
 
 ⚙️ Restrições Técnicas
 O desafio propôs restrições intencionais para estimular o raciocínio com base em lógica e tipos de dados:
-
-Nenhum laço de repetição foi utilizado (for, while)
-
-Nenhuma estrutura condicional foi utilizada (if, else)
-
 Toda a lógica foi resolvida com expressões diretas
 
 🛠 Tecnologias e Ferramentas
